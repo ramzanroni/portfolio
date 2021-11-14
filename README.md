@@ -1,3 +1,3 @@
 # portfolio
 live url:
-<a href="ramzanali.xyz">Live</a>
+<a href="https://ramzanali.xyz/">Live</a>
